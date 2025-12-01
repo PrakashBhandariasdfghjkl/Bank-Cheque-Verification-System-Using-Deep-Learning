@@ -1,0 +1,10 @@
+{
+    "prakash": {
+        "signature": "database/sigs/user2.jpg",
+        "balance": 2000
+    },
+    "Bishesh": {
+        "signature": "database/sigs/user1.jpg",
+        "balance": 3000
+    }
+}
